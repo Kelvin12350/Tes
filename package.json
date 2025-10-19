@@ -1,0 +1,12 @@
+{
+  "name": "mega-user-bot-test",
+  "version": "1.0.0",
+  "description": "Test MEGA user bot",
+  "main": "userBotTestSmall.js",
+  "scripts": {
+    "start": "node userBotTestSmall.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
