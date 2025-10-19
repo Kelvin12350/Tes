@@ -4,7 +4,7 @@
 const WebSocket = require('ws');
 
 // ✅ Put your test token here
-const BOT_TOKEN = 'PASTE_YOUR_TEST_TOKEN_HERE'; 
+const BOT_TOKEN = '3d4859d2d3769b915c1f7ff8dd3cd00414ece96edd01b166fb287c0077887e67'; 
 
 // ✅ Put your Master Bot URL here
 const MEGA_URL = 'ws://localhost:3000'; // or your deployed URL, e.g., wss://yourapp.vercel.app
